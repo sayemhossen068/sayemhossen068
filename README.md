@@ -1,4 +1,3 @@
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sayemhossen068&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div>
   <a href="https://github.com/sayemhossen068?tab=repositories">
