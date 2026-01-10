@@ -5,7 +5,7 @@
   </a>
 
   <a href="https://github.com/sayemhossen068?tab=repositories">
-    <img height="190px"
+    <img height="180px"
       src="https://diegoborbadev-github-readme-stats.vercel.app/api/top-langs/?username=sayemhossen068&layout=compact&langs_count=8&theme=radical"/>
   </a>
 </div>
